@@ -13,8 +13,8 @@
     <variable type="" id="pO0iEk9FTkWCfYTOhl|w" islocal="false" iscloud="false">text3</variable>
     <variable type="" id="l)#v~0k.!_p2WG|zhKl`" islocal="false" iscloud="false">text4</variable>
   </variables>
-  <block type="trade_definition" id="GJ$s(aAV:R)W!8P//+!_" x="0" y="0">
-    <statement name="TRADE_OPTIONS">
+  <block type="trade_definition" id="GJ$s(aAV:R)W!8P//+!_" x="0" y="9">
+    <statement name="TRADE_OPTIONS with ai">
       <block type="trade_definition_market" id="!`C|Ae59FgR;@/U3=FN@" deletable="false" movable="false">
         <field name="MARKET_LIST">synthetic_index</field>
         <field name="SUBMARKET_LIST">random_index</field>
